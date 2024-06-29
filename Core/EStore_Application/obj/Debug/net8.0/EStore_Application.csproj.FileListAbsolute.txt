@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\bin\Debug\net8.0\EStore_Application.deps.json
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\bin\Debug\net8.0\EStore_Application.dll
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\bin\Debug\net8.0\EStore_Application.pdb
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\bin\Debug\net8.0\EStore_Domain.dll
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\bin\Debug\net8.0\EStore_Domain.pdb
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\obj\Debug\net8.0\EStore_Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\obj\Debug\net8.0\EStore_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\obj\Debug\net8.0\EStore_Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\obj\Debug\net8.0\EStore_Application.AssemblyInfo.cs
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\obj\Debug\net8.0\EStore_Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\obj\Debug\net8.0\EStore_A.15E69D91.Up2Date
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\obj\Debug\net8.0\EStore_Application.dll
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\obj\Debug\net8.0\refint\EStore_Application.dll
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\obj\Debug\net8.0\EStore_Application.pdb
+C:\Users\User\Desktop\Asp_HomeWorks\Api_1_2_OnionArch\Core\EStore_Application\obj\Debug\net8.0\ref\EStore_Application.dll
